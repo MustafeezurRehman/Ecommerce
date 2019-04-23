@@ -1,0 +1,220 @@
+@media only screen and (max-width:767px)
+{
+.list-group-item
+	{
+		display: inline-block;
+		
+		
+	}
+	.laptop-carousel
+{
+	
+	width: 100%;
+	
+}
+	.footer-nav
+	{
+		width: 100%;
+		margin: auto;
+		text-align: center;
+	}
+.social-links
+	{
+		
+		margin: 30px;
+		text-align: center;
+	}
+	
+	footer p
+	{
+		
+		margin: 30px;
+		
+	}
+	section
+	{
+	padding: 50px 0;
+	clear:both;
+	}
+	.tab-section-header
+	{
+		margin-bottom:50px;
+	}
+	.image
+	{
+		margin: 7px 8px 3px 5px;
+	float:left;
+	width: 142px;
+	height: 142px;
+	}
+	.carousel-item
+	{
+		text-align: center;
+	}
+	
+	.rating
+	{
+		text-align: center;
+		display:block;
+		  width: 140px;
+	    margin: auto;
+		padding-left: 5%;
+	}
+	
+	.carousel-item img
+	{
+		
+		width: 280px;
+		height: auto;
+	}
+	.price
+	{
+		text-align: center;
+		width: 100%;
+		padding-left: 7%;
+		display: block;
+	}
+	.price-old
+	{
+		margin-left: 2%;
+	}
+	.product-name
+	{
+		padding-left: 1%;
+		text-align: center;
+		display: inline-block;
+	}
+	padding-left: 6%;
+	.carousel-item:hover>a>img
+{
+	overflow:hidden;
+-webkit-transform: scale(1.05);
+transform: scale(1.01);
+    -webkit-transition: -webkit-transform 0.5s;
+    transition: -webkit-transform 0.5s;
+    transition: transform 0.5s;
+    transition: transform 0.5s, -webkit-transform 0.5s;
+	
+	
+}
+	
+	.list-group
+	{
+		text-align:center;
+		width: 100%;
+	}
+	.cart-nd-heart-btn
+	{
+		text-align:center;
+	}
+	.product-price-of-tab
+	{
+		text-align:center;
+	}
+	.image-tab
+	{
+		margin: auto;
+		width: 70%		
+	}
+	
+	.count-item
+	{
+		padding: 0px;
+		padding-left: 3%;
+		width: 20%;
+		height: auto;
+		padding-bottom: 5px;
+	
+		display:-webkit-inline-box;
+		display:-ms-inline-flexbox;
+		display:inline-flex;
+	}
+	.counter
+	{
+		width: 100%;
+		text-align: center;
+		height: 50px;
+		
+		
+		
+	}
+	
+}
+@media only screen and (max-width:476px)
+{
+	
+	
+	.cart-nd-heart-btn
+	{
+		text-align: center;
+	}
+	
+	.list-group-item
+	{
+		width: 90px;
+		margin: 1px;
+		height:90px;
+	}
+	.product-price-of-tab
+	{
+		text-align:center;
+	}
+	.image-tab
+	{
+		width: 80%;
+		text-align: center;
+	}
+}
+@media only screen and (max-width:362px)
+{
+	.cart-nd-heart-btn
+	{
+		text-align:center;
+		margin: 0px;
+	}
+	section{
+	padding: 40px 0;
+	clear:both;
+	}
+	.tab-section-header
+	{
+		margin-bottom:40px;
+	}
+	.text-tab ul
+	{
+		margin:auto;
+		padding: 0;
+		
+	}
+	.text-tab h3
+	{
+		text-align: center;
+	}
+	.text-tab p
+	{
+		display: none;
+	}
+	.list-group-item
+	{
+		width: 70px;
+		margin: 0px;
+		height:70px;
+	}
+	.product-price-of-tab
+	{
+		text-align:center;
+	}
+	.image-tab
+	{
+		width: 100%;
+	}
+	.count-item
+	{
+		padding-left: 5%;
+		font-size: 80%;
+	}
+	.modtitle>.best-star
+	{
+		margin-right: 8px;
+	}
+}
